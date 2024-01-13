@@ -1,2 +1,3 @@
 # new_tally_up
-Это tally_up переписанный заново, но уже с небольшим опытом и с учётом ошибок
+
+A new Flutter project.
